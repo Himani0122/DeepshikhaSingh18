@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeepshikhaSingh18
-- 👀 I’m interested in C/C++, Python,Data science and web development.
-- 🌱 Currently, I'm pursuing my undergraduate in computer sciene and Engineering from Lovely Professional University.
+- 👀 I’m interested in Python,Data science and JAVA core and Advanced.
+- 🌱 Currently, pursuing my undergraduate in computer sciene and Engineering from Lovely Professional University.
 - 📫 My Linkedin profile: https://www.linkedin.com/in/deepshikha-singh-1654911a4
 
 <!---
